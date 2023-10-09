@@ -1,4 +1,4 @@
-aiohttp==3.8.5
+aiohttp==3.8.6
 fastapi==0.100.0
 pydantic==2.0.3
 PyMySQL==1.1.0
