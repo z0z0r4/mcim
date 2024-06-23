@@ -1,5 +1,5 @@
 beanie==1.25.0
-fastapi==0.109.0
+fastapi==0.111.0
 httpx==0.26.0
 loguru==0.7.2
 motor==3.3.2
